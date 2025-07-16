@@ -2,7 +2,7 @@
 
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B.svg)](https://www.streamlit.io/)
 [![Powered by Mistral AI](https://img.shields.io/badge/Powered%20by-Mistral%20AI-6047ff.svg)](https://mistral.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 🔍 Overview
 
