@@ -1,4 +1,6 @@
-# RepRadar: AI-Powered Sales Call Intelligence
+# Voxtral Streamlit App
+ 
+## RepRadar: AI-Powered Sales Call Intelligence
 
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B.svg)](https://www.streamlit.io/)
 [![Powered by Mistral AI](https://img.shields.io/badge/Powered%20by-Mistral%20AI-6047ff.svg)](https://mistral.ai/)
