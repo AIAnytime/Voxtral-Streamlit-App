@@ -10,6 +10,8 @@
 
 RepRadar is an AI-powered sales call analysis tool that helps sales teams improve their performance by automatically analyzing sales call recordings. Leveraging Mistral's cutting-edge Voxtral model for audio processing, RepRadar transcribes sales calls, segments them into different stages, identifies objections and competitor mentions, scores rep performance, and provides actionable coaching recommendations.
 
+![Voxtral Logo](./voxtral.png)
+
 ## ✨ Key Features
 
 - **Audio Transcription**: Upload or provide URL to sales call recordings and get precise transcriptions with timestamps
