@@ -1,0 +1,10 @@
+streamlit
+requests
+python-dotenv
+pydub
+pandas
+altair
+plotly
+numpy
+streamlit-extras
+watchdog
